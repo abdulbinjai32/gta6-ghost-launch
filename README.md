@@ -29,4 +29,4 @@ python3 meme.py
 ## Bounty
 https://make.fun/bounty/gta6-meme-x-01
 
-[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+make.fun · gta6-meme-x-01
