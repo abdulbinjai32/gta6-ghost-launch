@@ -13,7 +13,7 @@ make.fun ghost — and the 150 GB download is still stuck at 99%.
   palm silhouettes, a neon grid, and a 99%-stuck loading bar.
 - Caption in the image: "WAITED 13 YEARS FOR GTA 6" / "DIED. CAME BACK. STILL LOADING."
 - `main.ts` — the graded harness (Node 22+, standard library only).
-- `POST.json` — placeholder post URL, filled in with the real X post later.
+- `POST.json` — the live X post URL for this entry (posted 20 Nov 2026).
 
 ## Run the harness
 ```
